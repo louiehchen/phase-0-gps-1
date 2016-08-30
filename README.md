@@ -1,1 +1,2 @@
 # phase-0-gps-1
+First we made a repository on github, and then cloned it to our local machine. On our local machine, we created the awesome page markdown file. We then committed the change and pushed it to github. 
