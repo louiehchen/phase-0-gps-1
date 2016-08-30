@@ -3,6 +3,6 @@
 **This is bold?**
 *This is italic?*
 
-` This is code `
+` This is not code `
 
 !["Screenshot of gps session"](gps.png)
