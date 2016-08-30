@@ -1,0 +1,5 @@
+What Git concepts were you struggling with prior to the GPS session? I think the number one thing for me was just to get used to the workflow. It's still not second nature to me yet.
+What concepts were clarified during the GPS? I got a better understanding of how committing works and what it really means to commit a change with messages. It's more for your collaborators to see what's being changed than for you.
+What questions did you ask your pair and the guide? I asked my guide about how pairing works in general, different markdown syntax, and how to streamline the workflow.
+What still confuses you about Git? I feel like I'm still pretty weak in using branches and how to navigate them.
+How was your first experience of pairing in a GPS? Overall this GPS went very smoothly and I'm definitely more comfortable with the concepts.
