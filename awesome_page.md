@@ -3,6 +3,6 @@
 **This is bold?**
 *This is italic?*
 
-` This is code `
+` This is awesome code `
 
 !["Screenshot of gps session"](gps.png)
